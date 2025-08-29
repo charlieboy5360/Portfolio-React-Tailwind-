@@ -45,21 +45,21 @@ export default function Header() {
           <span
             className={`block h-0.5 w-full transition-transform duration-300 origin-center`}
             style={{
-              backgroundColor: "rgb(214, 210, 205)",
+              backgroundColor: "rgb(15, 23, 42)",
               transform: isOpen ? "rotate(45deg) translateY(6px)" : "none",
             }}
           ></span>
           <span
             className={`block h-0.5 w-full transition-opacity duration-300`}
             style={{
-              backgroundColor: "rgb(214, 210, 205)",
+              backgroundColor: "rgb(15, 23, 42)",
               opacity: isOpen ? 0 : 1,
             }}
           ></span>
           <span
             className={`block h-0.5 w-full transition-transform duration-300 origin-center`}
             style={{
-              backgroundColor: "rgb(214, 210, 205)",
+              backgroundColor: "rgb(15, 23, 42)",
               transform: isOpen ? "rotate(-45deg) translateY(-6px)" : "none",
             }}
           ></span>

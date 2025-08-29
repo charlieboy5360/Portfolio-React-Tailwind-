@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { Typewriter } from "react-simple-typewriter";
 import { Send } from "lucide-react";
 
-const HIGHLIGHT = "rgb(172, 189, 205)";
+const HIGHLIGHT = "rgb(15, 23, 42)";
 
 export default function Hero() {
     const [hover, setHover] = useState(false);

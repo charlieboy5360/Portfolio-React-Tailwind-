@@ -3,7 +3,7 @@ import { Send } from "lucide-react"; // telegram-like airplane icon
 
 export default function Contact() {
   const [hover, setHover] = useState(false);
-  const HIGHLIGHT = "rgb(172, 189, 205)";
+  const HIGHLIGHT = "rgb(15, 23, 42)";
 
   return (
     <section className="bg-dots py-20" id="contact">

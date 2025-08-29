@@ -20,13 +20,13 @@ const items = [
         role: "Automation",
         where: "Exam Duty Mail Reminder",
         when: "2025",
-        desc: "Apps Script + Sheets; automated mail notifications and scheduling.",
+        desc: "Apps Script + Sheets; Automated mail notifications",
     },
 ];
 
 export default function Experience() {
     return (
-        <section id="experience"className="bg-dots">
+        <section id="experience" className="bg-dots">
             <div className="max-w-6xl mx-auto px-5 py-20">
                 <span className="sketch">Experience</span>
 
