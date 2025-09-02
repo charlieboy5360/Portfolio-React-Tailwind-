@@ -12,7 +12,7 @@ export default function Hero() {
             <div className="max-w-6xl mx-auto px-5 py-20 grid md:grid-cols-2 gap-10 items-center">
                 {/* left headline */}
                 <div>
-                    <span className="sketch mb-3">Raju → (Tinkerer)</span>
+                    <span className="sketch mb-3">Raju → (Explorer)</span>
                     <h1 className="h1 text-5xl md:text-6xl font-extrabold text-slate-900 leading-tight mt-4">
                         I create designs <br />that speaks simplicity
                     </h1>
