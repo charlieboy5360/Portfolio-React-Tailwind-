@@ -13,7 +13,7 @@ const items = [
         role: "Backend (Django)",
         where: "Student Management System",
         when: "2025",
-        desc: "Auth, CRUD, and PostgreSQL integration.",
+        desc: "Auth, CRUD, and Admin Panel.",
     },
     {
         n: 3,

@@ -10,7 +10,7 @@ const projects = [
   },
   {
     title: "Student Management System",
-    tag: "Django + Oracle",
+    tag: "Django + SQLite",
     img: "/projects/sms.jpg",
     link: "#",
   },
